@@ -10,3 +10,7 @@ CSV UPLOAD GUIDLINE ---->
 8. Lastly we will add a automation in this.
 
 Scenarios ---->
+1. When we will upload csv file it will get saved in JSON format in database
+2. For empty lines and feilds there will be a validation.
+3. First will check if csv file is empty or not.
+4. Will convert the csv file to JSON
